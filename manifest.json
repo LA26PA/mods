@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-11T08:21:39.830Z",
+  "generado": "2026-11-12T05:34:49.691Z",
   "mods": [
     {
       "archivo": "CreativeCore_FABRIC_v2.14.7_mc1.21.8.jar",
@@ -239,7 +239,7 @@
     {
       "ruta": "config/fancymenu/customization/title_screen_layout.txt",
       "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/customization/title_screen_layout.txt",
-      "sha1": "8166c2652b72438cb1a4084bace1205722fcea75",
+      "sha1": "bd0211568f9bec38fc43f84381cc68e40ddaf751",
       "soloSiNoExiste": false
     },
     {
@@ -255,9 +255,15 @@
       "soloSiNoExiste": false
     },
     {
+      "ruta": "config/fancymenu/manifest.json",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/manifest.json",
+      "sha1": "762667f594c3066d923b53190335727315d7c704",
+      "soloSiNoExiste": false
+    },
+    {
       "ruta": "config/fancymenu/options.txt",
       "url": "https://raw.githubusercontent.com/LA26PA/mods/main/config/fancymenu/options.txt",
-      "sha1": "d382b246d3fe4a29cb50321e953e66b81e2ff34c",
+      "sha1": "05cf70f43445642d5d710c54c5be735fc2460450",
       "soloSiNoExiste": false
     },
     {
