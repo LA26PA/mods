@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-14T19:21:07.842Z",
+  "generado": "2026-11-14T19:29:25.723Z",
   "mods": [
     {
       "archivo": "CreativeCore_FABRIC_v2.14.25_mc26.3.jar",
@@ -50,6 +50,11 @@
       "archivo": "jei-26.3-fabric-31.17.0.109.jar",
       "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/jei-26.3-fabric-31.17.0.109.jar",
       "sha1": "8484d4cbaf9f4d25100a7123a35ed16fc00d2f2f"
+    },
+    {
+      "archivo": "puzzleslib-v26.3.18-mc26.3.x+fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/puzzleslib-v26.3.18-mc26.3.x%2Bfabric.jar",
+      "sha1": "3819387e2da9c584b5e34df6c31d903b3deb21ba"
     },
     {
       "archivo": "travelersbackpack-fabric-26.3-11.4.3.jar",
