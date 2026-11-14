@@ -1,5 +1,5 @@
 {
-  "generado": "2026-11-14T19:04:37.704Z",
+  "generado": "2026-11-14T19:21:07.842Z",
   "mods": [
     {
       "archivo": "CreativeCore_FABRIC_v2.14.25_mc26.3.jar",
@@ -40,11 +40,6 @@
       "archivo": "endrem-fabric-26.3-6.2.2.jar",
       "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/endrem-fabric-26.3-6.2.2.jar",
       "sha1": "9be316fa0f9310c281f86c7bb558d851ee91fdb1"
-    },
-    {
-      "archivo": "fabric-api-0.166.2+26.3.jar",
-      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/fabric-api-0.166.2%2B26.3.jar",
-      "sha1": "65636253571429971f25f5619692e6c1a6362028"
     },
     {
       "archivo": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
