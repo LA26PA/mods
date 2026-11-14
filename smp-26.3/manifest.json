@@ -1,0 +1,91 @@
+{
+  "generado": "2026-11-14T19:04:37.704Z",
+  "mods": [
+    {
+      "archivo": "CreativeCore_FABRIC_v2.14.25_mc26.3.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/CreativeCore_FABRIC_v2.14.25_mc26.3.jar",
+      "sha1": "4d28a1ccab6a6d6709472ee3fb23c6e06f291830"
+    },
+    {
+      "archivo": "ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/ForgeConfigAPIPort-v26.3.1-mc26.3.x-Fabric.jar",
+      "sha1": "a0d802d2cb010a5054c72f1ccf248433b6e0bafb"
+    },
+    {
+      "archivo": "Incendium_26.3_v5.5.4+26.3.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/Incendium_26.3_v5.5.4%2B26.3.jar",
+      "sha1": "b1abc09560d5b94deaa2c16a9898bc1a4cb8385e"
+    },
+    {
+      "archivo": "ItemPhysic_FABRIC_v1.8.18_mc26.3.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/ItemPhysic_FABRIC_v1.8.18_mc26.3.jar",
+      "sha1": "484aa9c6fe141412d2710c1a44ef35ba3aefee2c"
+    },
+    {
+      "archivo": "bclib-26.302.1.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/bclib-26.302.1.jar",
+      "sha1": "7a4ed85c192bddcd98af9339ed706abc6a938f5e"
+    },
+    {
+      "archivo": "better-end-26.302.1.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/better-end-26.302.1.jar",
+      "sha1": "4f4a63b8ff6cc8f7656ba79eeb00ad8e8580588d"
+    },
+    {
+      "archivo": "elytratrims-fabric-4.9.3+26.3.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/elytratrims-fabric-4.9.3%2B26.3.jar",
+      "sha1": "20bce355e820a39446f78ddea25a162522554c4b"
+    },
+    {
+      "archivo": "endrem-fabric-26.3-6.2.2.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/endrem-fabric-26.3-6.2.2.jar",
+      "sha1": "9be316fa0f9310c281f86c7bb558d851ee91fdb1"
+    },
+    {
+      "archivo": "fabric-api-0.166.2+26.3.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/fabric-api-0.166.2%2B26.3.jar",
+      "sha1": "65636253571429971f25f5619692e6c1a6362028"
+    },
+    {
+      "archivo": "fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/fabric-language-kotlin-1.14.2%2Bkotlin.2.4.21.jar",
+      "sha1": "f1d4ab6ecd54d9782521333a87eb50724ecb03e0"
+    },
+    {
+      "archivo": "jei-26.3-fabric-31.17.0.109.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/jei-26.3-fabric-31.17.0.109.jar",
+      "sha1": "8484d4cbaf9f4d25100a7123a35ed16fc00d2f2f"
+    },
+    {
+      "archivo": "travelersbackpack-fabric-26.3-11.4.3.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/travelersbackpack-fabric-26.3-11.4.3.jar",
+      "sha1": "7eb196418633af415bab24ea46b124b0505aec82"
+    },
+    {
+      "archivo": "visualworkbench-v26.3.0-mc26.3.x+fabric.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/visualworkbench-v26.3.0-mc26.3.x%2Bfabric.jar",
+      "sha1": "06f606064a00bd6246bc39a330742c83c4d2bfdd"
+    },
+    {
+      "archivo": "voicechat-fabric-2.6.27+26.3.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/voicechat-fabric-2.6.27%2B26.3.jar",
+      "sha1": "23442735927fe3839650196c0656eb82b0322d87"
+    },
+    {
+      "archivo": "worldweaver-26.302.1.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/worldweaver-26.302.1.jar",
+      "sha1": "f7a721a984027d70339cb615d71645f25a1bb802"
+    },
+    {
+      "archivo": "xaerominimap-fabric-26.3-26.6.2.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/xaerominimap-fabric-26.3-26.6.2.jar",
+      "sha1": "9b44e5718f9258ed32283a391e19a1d46464188a"
+    },
+    {
+      "archivo": "xaeroworldmap-fabric-26.3-1.47.2.jar",
+      "url": "https://raw.githubusercontent.com/LA26PA/mods/main/smp-26.3/mods/xaeroworldmap-fabric-26.3-1.47.2.jar",
+      "sha1": "1282302b6c92050cfab7c1db45cf3d92d9a331c5"
+    }
+  ],
+  "archivos": []
+}
